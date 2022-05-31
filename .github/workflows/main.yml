@@ -1,4 +1,4 @@
-me: main
+name: main
 on: workflow_dispatch
 defaults:
   run:
